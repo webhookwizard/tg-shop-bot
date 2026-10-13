@@ -1,0 +1,7 @@
+# Runtime: Python 3.9+ (3.12 tested).
+# The demo (demo.py) and test suite need NOTHING but the standard library.
+# Only the live Telegram bot needs python-telegram-bot.
+python-telegram-bot>=21.0
+
+# Dev (to run the test suite):
+# pytest>=7.0
